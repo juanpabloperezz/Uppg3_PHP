@@ -1,0 +1,15 @@
+body
+{
+    background-color: lightgrey;    
+    display: flex;
+    flex-direction: row;
+    margin-left: 12.5%;
+}
+
+table,td
+{
+    border: solid black;
+    width: 16%;
+    margin: 5%;
+    
+}
